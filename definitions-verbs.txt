@@ -1,0 +1,330 @@
+1. to be (permanent) ser
+2. to be (temp./location etc.) estar
+3. to have tener
+4. to do/make hacer
+5. to be able to (can) poder
+6. to say/tell decir
+7. to go ir
+8. to see ver
+9. to give dar
+10. to eat comer
+11. to know (info) saber
+12. to want querer
+13. to arrive llegar
+14. to owe, ought to, must deber
+15. to put/place poner
+16. to believe creer
+17. to speak/talk hablar
+18. to read leer
+19. to sleep dormir
+20. to understand entender
+21. to find encontrar
+22. to call llamar
+23. to come venir
+24. to carry/take/wear llevar
+25. to leave salir
+26. to open abrir
+27. to live vivir
+28. to bring traer
+29. to write escribir
+30. to think pensar
+31. to look for buscar
+32. to take/drink tomar
+33. to walk caminar
+34. to run correr
+35. to need necesitar
+36. to lose perder
+37. to dance bailar
+38. to buy comprar
+39. to answer contestar
+40. to ask preguntar
+41. to close cerrar
+42. to work trabajar
+43. to begin comenzar
+44. to study estudiar
+45. to ask for/to order pedir
+46. to sing cantar
+47. to play jugar
+48. to follow/continue seguir
+49. to wear llevar
+50. to pay pagar
+51. to know (personally) conocer
+52. to learn aprender
+53. to listen to escuchar
+54. to hear oír
+55. to go up subir
+56. to sell vender
+57. to travel viajar
+58. to change cambiar
+59. to explain explicar
+60. to finish terminar
+61. to prefer preferir
+62. to serve servir
+63. to like (please) gustar
+64. to feel sentir
+65. to drink beber
+66. to cook cocinar
+67. to eat breakfast desayunar
+68. to eat dinner cenar
+69. to eat lunch almorzar
+70. to look at/watch mirar
+71. to receive recibir
+72. to take out sacar
+73. to count contar
+74. to play (instrument) tocar
+75. to get conseguir
+76. to win/earn ganar
+77. to visit visitar
+78. to wait for esperar
+79. to help ayudar
+80. to remember recordar
+81. to desire desear
+82. to practice practicar
+83. to clean limpiar
+84. to converse conversar
+85. to deliver entregar
+86. to repeat repetir
+87. to return volver
+88. to get sick enfermarse
+89. to wash oneself lavarse
+90. to get dressed vestirse
+91. to break romperse
+92. to bathe (oneself) bañarse
+93. to burn quemarse
+94. to brush cepillarse
+95. to get up levantarse
+96. to meet reunirse
+97. to shave afeitarse
+98. to forget olvidarse
+99. to swim nadar
+100. to invite invitar
+101. to accept aceptar
+102. to accuse acusar
+103. to add agregar
+104. to add añadir
+105. to admire admirar
+106. to admit admitir
+107. to advance/to move forward avanzar
+108. to advise/to let know avisar
+109. to agree estar de acuerdo
+110. to announce/to advertise anunciar
+111. to appear aparecer
+112. to attack atacar
+113. to attend asistir
+114. to attract atraer
+115. to be born nacer
+116. to be busy estar ocupado
+117. to be called/named llamarse
+118. to be glad alegrarse
+119. to be harmful/damaging hacer daño
+120. to be important importar
+121. to be left quedar
+122. to be located quedar
+123. to be located estar ubicado
+124. to be mistaken equivocarse
+125. to be quiet callarse
+126. to be right tener razón
+127. to be scared tener miedo
+128. to be scared asustarse
+129. to be worth valer
+130. to be worth it valer la pena
+131. to become hacerse
+132. to bite morder
+133. to boot/ to throw away botar
+134. to break quebrarse
+135. to carry out, fulfill realizar
+136. to carry/recharge cargar
+137. to celebrate celebrar
+138. to charge/cash (a check) cobrar
+139. to chat charlar
+140. to choose escoger
+141. to complain quejarse
+142. to concentrate concentrar
+143. to conquer, overcome vencer
+144. to construct construir
+145. to continue continuar
+146. to contribute contribuir
+147. to convince convencer
+148. to cool enfriar
+149. to correct corregir
+150. to cost costar
+151. to count on.. contar con
+152. to cover cubrir
+153. to create crear
+154. to cross cruzar
+155. to cry llorar
+156. to cut cortar
+157. to decide decidir
+158. to declare declarar
+159. to demand exigir
+160. to depend depender
+161. to deposit depositar
+162. to describe describir
+163. to deserve merecer
+164. to destroy destruir
+165. to devote oneself (work) dedicarse a
+166. to dial/mark marcar
+167. to die morir
+168. to direct dirigir
+169. to disappear desaparecer
+170. to discover descubrir
+171. to discuss/debate discutir
+172. to distract distraer
+173. to doubt dudar
+174. to draw dibujar
+175. to dream about soñar con
+176. to drive manejar
+177. to drive (Spain) conducir
+178. to dry (oneself) off secarse
+179. to employ emplear
+180. to enter entrar
+181. to establish establecer
+182. to exist existir
+183. to experiment/experience experimentar
+184. to express expresar
+185. to fall down caer
+186. to fall in love enamorarse
+187. to fascinate fascinar
+188. to feel (well or ill) sentirse
+189. to fight pelear
+190. to find out averiguar
+191. to finish acabar
+192. to fit caber
+193. to fix arreglar
+194. to fly volar
+195. to form, shape formar
+196. to function, run (machine) funcionar
+197. to get along well with llevarse bien con
+198. to get angry enojarse
+199. to get dirty ensuciar
+200. to get married casarse
+201. to get oneself ready arreglarse
+202. to get someone’s attention llamar la atención
+203. to get tired cansarse
+204. to get/grab agarrar
+205. to give dar
+206. to give as a present regalar
+207. to give up darse por vencido
+208. to go down/lower bajar
+209. to gradúate graduarse
+210. to grow crecer
+211. to grow up/to be raised criarse
+212. to greet saludar
+213. to guess adivinar
+214. to guide guiar
+215. to happen pasar
+216. to have (past tense) haber
+217. to have fun divertirse
+218. to have just acabar de
+219. to hide esconder
+220. to Hill matar
+221. to hit pegar
+222. to hug abrazar
+223. to hurt/ache doler
+224. to imagine imaginarse
+225. to improve mejorarse
+226. to include incluir
+227. to indicate indicar
+228. to insist insistir
+229. to interest/be interested in interesar
+230. to interrupt interrumpir
+231. to introduce presentar
+232. to judge juzgar
+233. to jump saltar
+234. to jump brincar
+235. to keep/maintain guardar
+236. to lack faltar
+237. to last durar
+238. to laugh reírse
+239. to lay down acostarse
+240. to leave irse
+241. to leave something or someone dejar
+242. to let go soltar
+243. to let/allow dejar
+244. to lie mentir
+245. to loan prestar
+246. to love amar
+247. to love/adore(things) encantar
+248. to maintain mantener
+249. to make fun of burlarse
+250. to mention mencionar
+251. to move mover
+252. to occupy ocupar
+253. to occur ocurrir
+254. to offer ofrecer
+255. to organize organizar
+256. to paint pintar
+257. to participate participar
+258. to pass a course/exam aprobar
+259. to pay attention hacer caso
+260. to pay attention prestar atención
+261. to permit permitir
+262. to pick up recoger
+263. to plan planear
+264. to prepare preparar
+265. to produce producir
+266. to promise prometer
+267. to pronounce pronunciar
+268. to propose proponer
+269. to protect proteger
+270. to rain llover
+271. to reach alcanzar
+272. to realize darse cuenta
+273. to recognize reconocer
+274. to register registrar
+275. to remain/stay quedarse
+276. to remember acordarse
+277. to repair reparar
+278. to require requerir
+279. to reserve reservar
+280. to resolve resolver
+281. to respond responder
+282. to rest descansar
+283. to return regresar
+284. to return (an object) devolver
+285. to rob robar
+286. to save ahorrar
+287. to say goodbye despedirse
+288. to say/tell contar
+289. to scream gritar
+290. to seem/appear parecer
+291. to send mandar
+292. to send enviar
+293. to separate separar
+294. to show mostrar
+295. to shower ducharse
+296. to sign firmar
+297. to sit down sentarse
+298. to ski esquiar
+299. to smell oler
+300. to smile sonreír
+301. to smoke fumar
+302. to snow nevar
+303. to sound/ring sonar
+304. to spend gastar
+305. to stand up ponerse de pie
+306. to start empezar
+307. to stop parar
+308. to suffer sufrir
+309. to suggest sugerir
+310. to suppose suponer
+311. to surprise sorprender
+312. to switch on (light) prender
+313. to take a walk pasearse
+314. to take care of one’s self cuidarse
+315. to take care of/attend to atender
+316. to take off, remove oneself quitarse
+317. to teach enseñar
+318. to thank agradecer
+319. to touch tocar
+320. to translate traducir
+321. to try tratar
+322. to turn off apagar
+323. to turn out (well) salir bien
+324. to turn/fold doblar
+325. to understand comprender
+326. to use usar
+327. to use utilizar
+328. to wake up despertarse
+329. to warm up calentarse
+330. to worry preocuparse

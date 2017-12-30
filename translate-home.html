@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Hello world from Cloud9!</title>
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript" src="translate.js"></script>
+
+</head>
+
+<body>
+
+    <div class="jumbotron">
+
+        <div class="container">
+            <h1 class="display-3">
+                Spanish Conjugation Quizzer
+            </h1>
+        </div>
+
+    </div>
+    
+    <div class="container">
+        <div class="row">
+            <form action="translate-test.php" type="GET" id="form1">
+                <div class="col-md-6">
+                    <h2>
+                        Test yourself on your ability to conjugate spanish verbs
+                    </h2>
+
+
+                    <input type="submit" class="btn btn-primary" value="quiz me" />
+
+                </div>
+                <div class="col-md-6">
+                    <h2>
+                        Choose the tense and mood
+                    </h2>
+
+
+                    <label for="radio1">El Modo</label>
+                    <div id="radio1">
+                        <div class="radio" name="modo">
+                            <label><input type="radio" checked="checked" name="modo" value="1">Indicativo</label>
+                        </div>
+                        <div class="radio" name="modo">
+                            <label><input type="radio" name= "modo" value="2">Subjunctivo</label>
+                        </div>
+                    </div>
+
+
+                    <label for="sel1">El Tiempo</label>
+                    <select class="form-control" id="sel1" name="tiempo" form="form1">
+                    <option value="Presente">presente</option>
+                    <option value="Imperfecto">imperfecto</option>
+                    <option value="Preterito">preterito</option>
+                      </select>
+
+                    <label for="sel1">El Verbo</label>
+                    <select class="form-control" id="sel1" name="verbo" form="form1">
+                    <option value="choose_random">Choose Random</option>
+                      </select>
+
+                </div>
+            </form>
+
+        </div>
+    </div>
+</body>
+
+</html>
